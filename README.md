@@ -246,6 +246,8 @@ print(label)  # e.g. "tadasana_good"
 - [ ] Audio feedback for correction tips
 
 ---
+## 📊 Project Poster
+![PoseIQ Poster](assets/poseiq_poster.jpg)
 
 ## Acknowledgements
 
