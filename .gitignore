@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# Virtual Environments
+mp_env/
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large generated files (too big for GitHub)
+frames/
+yoga_pose_model.pkl
+label_encoder.pkl
+features.csv
+
+# Dataset (large video files)
+Final_project3_dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs & outputs
+*.log
+output.txt
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
